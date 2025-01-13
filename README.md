@@ -55,7 +55,7 @@ The system ensures that reservations are validated and conflict-free.
 ## Menu Options
 ### Add Reservation:
 
-Enter your name, room name, date (in YYYY-MM-DD format), start time (in HH:MM format), and end time.
+Enter your name, room name, date (in YYYY-MM-DD format), start time and end time (in HH:MM format).
 - The system will confirm if the reservation was successful or display an error message.
 ### Show Reservations:
 
@@ -70,4 +70,3 @@ Enter a valid ID to cancel the corresponding reservation.
 
 # Notes
 - Reservations are stored in memory during the runtime of the program.
-- Future versions could include persistent storage or a graphical interface.
